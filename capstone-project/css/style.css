@@ -14,7 +14,7 @@
 
 	body
 	{
-		background-color: #6A5ACD;
+		background-color: #6887B8;
 		/* background-image:			url('images/overlay.png'), 		url('images/bg.jpg'); */
 		background-repeat:			repeat,							no-repeat;
 		background-size:			auto,							100% 100%;
@@ -233,12 +233,14 @@
 		.image
 		{
 			display: inline-block;
+			padding-bottom: 30px;
 		}
 		
 			.image img
 			{
 				display: block;
 				width: 100%;
+				
 			}
 
 			.image.fit
