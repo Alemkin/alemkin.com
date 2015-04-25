@@ -162,7 +162,7 @@
 			{
 				display: block;
 				position: absolute;
-				background: #222222;
+				background-color:rgba(0, 0, 0, 0.3);
 				color: #ffffff;
 				top: -2.75em;
 				font-size: 0.3em;
@@ -177,7 +177,7 @@
 				transition: opacity .25s ease-in-out;
 				
 				/* Labels not wide enough? Increase its width below and set margin-left to ((width / 2) * -1) */
-				width: 5.5em;
+				width: 5.9em;
 				margin-left: -2.75em;
 			}
 			
