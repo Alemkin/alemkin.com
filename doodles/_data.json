@@ -1,0 +1,68 @@
+{
+    "1": {
+        "cardTitle": "Muppet Brain Ship Thing",
+        "cardAuthor": "Sergio Rodriguez",
+        "cardDescription": "Here we have some sort of muppet like creature, flying some kind of brain shaped space craft, shooting brain beams.",
+        "path": "img/sergio/brain.jpg"
+    },
+    "2": {
+        "cardTitle": "Angel Pacman Ghost",
+        "cardAuthor": "Sergio Rodriguez",
+        "cardDescription": "In this exhibit, there appears to be a ghost from the game pacman, adorned by a flaming halo, looking quite perturbed.",
+        "path": "img/sergio/ghost.jpg"
+    },
+    "3": {
+        "cardTitle": "Skinny Iron Arm Man",
+        "cardAuthor": "Sergio Rodriguez",
+        "cardDescription": "Presented we have an adaptation of the ever lovable Tony Stark, portrayed as an amorphous humanoid with no mouth, skinny arms, and very big armor.",
+        "path": "img/sergio/ironthing.jpg"
+    },
+    "4": {
+        "cardTitle": "M'slime",
+        "cardAuthor": "Sergio Rodriguez",
+        "cardDescription": "Above, a gentleman of the highest caliber in slime society, giving his greetings.",
+        "path": "img/sergio/meslime.jpg"
+    },
+    "5": {
+        "cardTitle": "Mount Crabs",
+        "cardAuthor": "Sergio Rodriguez",
+        "cardDescription": "Pictured we have a mountainous representation of what it feels like to be a crab.",
+        "path": "img/sergio/moontain.jpg"
+    },
+    "6": {
+        "cardTitle": "Bedazzle Me",
+        "cardAuthor": "Sergio Rodriguez",
+        "cardDescription": "This is apparently an alien squid head, with a bedazzled eye.",
+        "path": "img/sergio/octo.jpg"
+    },
+    "7": {
+        "cardTitle": "Teenage Mutant Ninja Squirtles",
+        "cardAuthor": "Sergio Rodriguez",
+        "cardDescription": "Squirtlenardo, Cubone Jones, and Splinticate. The dream team.",
+        "path": "img/sergio/pokes.jpg"
+    },
+    "8": {
+        "cardTitle": "Donald Skull",
+        "cardAuthor": "Sergio Rodriguez",
+        "cardDescription": "The alternate form Donald Duck takes in his frequent horror film guest appearances. A sort of, Ghost Rider meets Sailor Boy theme, packaged in a duck.",
+        "path": "img/sergio/skull.jpg"
+    },
+    "9": {
+        "cardTitle": "Magical Winged Floaty Snake",
+        "cardAuthor": "Sergio Rodriguez",
+        "cardDescription": "Maybe a snake, I have no clue.",
+        "path": "img/sergio/snake.jpg"
+    },
+    "10": {
+        "cardTitle": "Angry Spiders",
+        "cardAuthor": "Sergio Rodriguez",
+        "cardDescription": "A thing of nightmares, may it fly towards you at great speeds, as flung from a catapult controlled by a mobile device.",
+        "path": "img/sergio/spidey.jpg"
+    },
+    "11": {
+        "cardTitle": "Nerd",
+        "cardAuthor": "Sergio Rodriguez",
+        "cardDescription": "Just your average nerd. Nothing to see here. Send in your specs and he'll build your product.",
+        "path": "img/sergio/squidward.jpg"
+    }
+}
