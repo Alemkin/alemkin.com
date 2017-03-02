@@ -64,5 +64,11 @@
         "cardAuthor": "Sergio Rodriguez",
         "cardDescription": "Just your average nerd. Nothing to see here. Send in your specs and he'll build your product.",
         "path": "img/sergio/squidward.jpg"
+    },
+    "12": {
+        "cardTitle": "Leap",
+        "cardAuthor": "Sergio Rodriguez",
+        "cardDescription": "A simple one for you. Nature's friendly companion, leaping through the air for your amusement... or their own...",
+        "path": "img/sergio/leap.jpg"
     }
 }
