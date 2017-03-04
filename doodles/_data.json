@@ -70,5 +70,23 @@
         "cardAuthor": "Sergio Rodriguez",
         "cardDescription": "A simple one for you. Nature's friendly companion, leaping through the air for your amusement... or their own...",
         "path": "img/sergio/leap.jpg"
+    },
+    "13": {
+        "cardTitle": "Mortal Aliens",
+        "cardAuthor": "Sergio Rodriguez",
+        "cardDescription": "Two aliens, One RoboDino, who will survive? (it's robodino, he's going to win)",
+        "path": "img/sergio/avpdino.jpg"
+    },
+    "14": {
+        "cardTitle": "Peekatchu",
+        "cardAuthor": "Sergio Rodriguez",
+        "cardDescription": "Trust me, he's a pikachu. Just continue on and don't think too hard about it.",
+        "path": "img/sergio/gengar.jpg"
+    },
+    "15": {
+        "cardTitle": "Cthulu Available",
+        "cardAuthor": "Sergio Rodriguez",
+        "cardDescription": "Many winged, many tentacled, many limbed, many eyed bringer of destruction and doom to this world, and all worlds iin other dimensions. Also enjoys long walks on the beaches of the moon, and eternal suffering of all living things.",
+        "path": "img/sergio/cthulu.jpg"
     }
 }
