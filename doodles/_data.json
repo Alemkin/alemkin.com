@@ -86,7 +86,13 @@
     "15": {
         "cardTitle": "Cthulu Available",
         "cardAuthor": "Sergio Rodriguez",
-        "cardDescription": "Many winged, many tentacled, many limbed, many eyed bringer of destruction and doom to this world, and all worlds iin other dimensions. Also enjoys long walks on the beaches of the moon, and eternal suffering of all living things.",
+        "cardDescription": "Many winged, many tentacled, many limbed, many eyed bringer of destruction and doom to this world, and all worlds in other dimensions. Also enjoys long walks on the beaches of the moon, and eternal suffering of all living things.",
         "path": "img/sergio/cthulu.jpg"
+    },
+    "16": {
+        "cardTitle": "SpiderSkullCrab",
+        "cardAuthor": "Sergio Rodriguez",
+        "cardDescription": "Shot down from it's web by an jerk in green with pointy ears, or swinging through the streets of New York City, SpiderSkullCrab is on the case!",
+        "path": "img/sergio/spidercrab.jpg"
     }
 }
