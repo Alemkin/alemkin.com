@@ -94,5 +94,11 @@
         "cardAuthor": "Sergio Rodriguez",
         "cardDescription": "Shot down from it's web by an jerk in green with pointy ears, or swinging through the streets of New York City, SpiderSkullCrab is on the case!",
         "path": "img/sergio/spidercrab.jpg"
+    },
+    "17": {
+        "cardTitle": "Hobo Goo",
+        "cardAuthor": "Sergio Rodriguez",
+        "cardDescription": "Just a sad goo down on their luck, and just trying to provide for the lil' goos",
+        "path": "img/sergio/hobogoo.jpg"
     }
 }
