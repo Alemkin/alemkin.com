@@ -2,7 +2,6 @@ doctype html
 html(lang="en")
 	head
 		!= partial("../partial/_main_header")
-		link(rel="stylesheet" href="css/font-awesome.min.css")
 		link(href="css/bootstrap.min.css" rel="stylesheet")
 		link(href="css/mdb.min.css" rel="stylesheet")
 		link(href="css/doodles.css" rel="stylesheet")
@@ -12,7 +11,7 @@ html(lang="en")
 			div.navbar-brand
 				strong /Doodles
 			div.navbar-nav
-				a.nav-link.fa.fa-home(href="https://www.alemkin.com") &nbsp;Return to Alemkin.com
+				a.nav-link.fa.fa-home(href="/") &nbsp;Return to Alemkin.com
 		div.row.images
 			for card in public.doodles._data
 				!= partial("../partial/_doodle_card", card)
