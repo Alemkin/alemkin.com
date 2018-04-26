@@ -1,11 +1,11 @@
-@body-color:#fffaeb;
-@blue: #0977b6;
-@green: #12b886;
-@brown: #946c4d;
-@teal: #2aa198;
-@black: #24292e;
-@orange: #a73100;
-@light-blue: #22b8cf;
+@black: #4D4C41;
+@body-color:@black;
+@blue: #1094E0;
+@green: #C1F161;
+@brown: #bf7d4a;
+@teal: #8DE6F7;
+@orange: #FEB257;
+@pink: #FC5C94;
 
 body {
   background-color: @body-color;
@@ -14,13 +14,13 @@ body {
 
 .object {
   font-size: 18px;
-  width: 400px;
+  width: 420px;
   margin: 0 auto;
   line-height: 1;
-  color: @black;
+  color: @pink;
   margin-top: 5em;
   .name {
-    color: @light-blue;
+    color: white;
     font-size: 22px;
   }
   .inner-object {
@@ -33,13 +33,14 @@ body {
 
   .code-link-icon {
     font-size: 24px;
-    margin-left: 14px;
+    margin-right: 14px;
+    vertical-align: middle;
   }
 
   .code-link {
     text-decoration: none;
     color: @teal;
-    margin-left: 10px;
+    margin-left: 1em;
     &:hover {
       cursor: pointer;
       text-decoration: underline;
@@ -50,9 +51,15 @@ body {
 .blue {
   color: @blue;
 }
+
 .green {
-  color: @green;;
+  color: @green;
 }
+
 .brown {
   color: @brown;
+}
+
+.white {
+  color: white;
 }
